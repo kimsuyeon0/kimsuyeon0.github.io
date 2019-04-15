@@ -19,7 +19,7 @@ avatar: https://avatars0.githubusercontent.com/u/44567393?s=460&v=4
 footer-links:
   dribbble:
   email: suyeon43541@naver.com
-  facebook: 김수연
+  facebook: https://www.facebook.com/sooyeon.kim.1042
   flickr:
   github: kimsuyeon0
   instagram:
@@ -34,14 +34,14 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: 'suyeon'
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-138344836-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://kimsuyeon0.github.iio
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
