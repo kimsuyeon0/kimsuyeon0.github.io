@@ -1,6 +1,8 @@
 ---
-published: false
+layout: post
+title: 00.쿠버네티스 용어
 ---
+
 # Kubernetes_basic
 
 정리하면서 여러개의 용어가 나오는데, 용어에 대해서 알지 못하면 정리한 것을 봐도 이해가 불가능하다. (나중에 보강)
